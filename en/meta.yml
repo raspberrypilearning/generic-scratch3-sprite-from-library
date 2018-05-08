@@ -1,11 +1,14 @@
-title: generic-scratch3-sprite-from-library
+title: Adding a Scratch sprite from the Library
 hero_image: images/banner.png
-description: generic-scratch3-sprite-from-library description
-version: 4
+description: Adding a Scratch sprite from the Library
+original url:
+theme: 
+duration: 1
+curriculum:
 listed: false
 copyedit: false
-last_tested: "2018-05-08"
+ingredient: true
+interests:
+technologies: "scratch"
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Add a sprite
