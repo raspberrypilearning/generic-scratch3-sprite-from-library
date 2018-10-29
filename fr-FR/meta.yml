@@ -1,7 +1,7 @@
 ---
-title: Adding a Scratch sprite from the Library
+title: Ajout d'un lutin depuis la bibliothèque
 hero_image: images/banner.png
-description: Adding a Scratch sprite from the Library
+description: Ajout d'un lutin depuis la bibliothèque
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Add a sprite
+    title: Ajouter un lutin
