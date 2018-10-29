@@ -1,7 +1,7 @@
 + Click **Choose a sprite** to see the library of all Scratch sprites.
     
-    ![screenshot](images/sprite-library.png)
+    ![스크린샷](images/sprite-library.png)
 
 + You can search or browse sprites by theme. Click on a sprite to add it to your project.
     
-    ![screenshot](images/sprite-choose.png)
+    ![스크린샷](images/sprite-choose.png)
