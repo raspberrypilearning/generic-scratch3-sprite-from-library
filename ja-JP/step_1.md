@@ -4,4 +4,4 @@
 
 + You can search or browse sprites by theme. Click on a sprite to add it to your project.
     
-    ![screenshot](images/sprite-choose.png)
+    ![スクリーンショット](images/sprite-choose.png)
