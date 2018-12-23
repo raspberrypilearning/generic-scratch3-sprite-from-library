@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ روی **Choose a sprite** کلیک کنید تا کتابخانه‌ی تمام شبح های اسکرچ را ببینید.
     
-    ![screenshot](images/sprite-library.png)
+    ![عکس از صفحه نمایش](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ شما می‌توانید شبح‌ها را جستجو یا بر اساس موضوع مرور کنید. برای این‌که یک شبح را به پروژه‌ی خود اضافه کنید، روی آن کلیک کنید.
     
     ![screenshot](images/sprite-choose.png)
