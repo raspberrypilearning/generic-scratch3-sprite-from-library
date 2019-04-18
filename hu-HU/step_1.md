@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Kattints a **Válassz szereplőt** ikonra, hogy megnyisd az összes Scratch szereplő könyvtárát.
     
     ![képernyőkép](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Rákereshetsz egy szereplőre, vagy böngészheted őket téma alapján. Kattints egy szereplőre, hogy hozzáadd a projektedhez.
     
     ![képernyőkép](images/sprite-choose.png)
