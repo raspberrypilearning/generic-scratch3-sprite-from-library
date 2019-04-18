@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Klik på ** Vælg en sprite ** for at se biblioteket af alle Scratch sprites.
     
     ![skærmbillede](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Du kan søge eller gennemse sprites efter tema. Klik på en sprite for at tilføje den til dit projekt.
     
     ![screenshots](images/sprite-choose.png)
