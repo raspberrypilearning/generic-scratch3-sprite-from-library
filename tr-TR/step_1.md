@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Scratch kütüphanesindeki tüm kuklaları görmek için **Kukla Seçimi** 'ne tıklayın.
     
-    ![screenshot](images/sprite-library.png)
+    ![ekran görüntüsü](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Kuklaları arayabilir veya temaya göre göz atabilirsiniz. Kuklayı projenize eklemek için üstüne tıklayın.
     
-    ![screenshot](images/sprite-choose.png)
+    ![ekran görüntüsü](images/sprite-choose.png)
