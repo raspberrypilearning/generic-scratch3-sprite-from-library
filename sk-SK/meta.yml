@@ -1,7 +1,7 @@
 ---
-title: Adding a Scratch sprite from the Library
-hero_image: images/banner.png
-description: Adding a Scratch sprite from the Library
+title: Pridanie Scratch postavy z knižnice
+hero_image: images / banner.png
+description: Pridanie Scratch postavy z knižnice
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Add a sprite
+    title: Pridaj postavu
