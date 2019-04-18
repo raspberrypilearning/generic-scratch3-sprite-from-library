@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Klõpsa **Vali sprait**, et näha kõikide Scratchi spraitide teeki.
     
-    ![screenshot](images/sprite-library.png)
+    ![ekraanipilt](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Spraite saad otsida või sirvida teema järgi. Klõpsa spraidil, et lisada see oma projektile.
     
-    ![screenshot](images/sprite-choose.png)
+    ![ekraanipilt](images/sprite-choose.png)
