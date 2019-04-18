@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Za ogled knjižnice vseh Sprite figur klikni na **Izberi figuro**.
     
-    ![screenshot](images/sprite-library.png)
+    ![posnetek zaslona](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Figure lahko iščeš ali prebrskaš glede na temo. Klikni na figuro, da jo dodaš v svoj projekt.
     
-    ![screenshot](images/sprite-choose.png)
+    ![posnetek zaslona](images/sprite-choose.png)
