@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ **스프라이트 선택**을 클릭하면 모든 스크래치 스프라이트가 있는 저장소를 볼 수 있습니다.
     
     ![스크린샷](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ 스프라이트를 테마로 검색할 수 있습니다. 스프라이트를 클릭하여 프로젝트에 추가하십시오.
     
     ![스크린샷](images/sprite-choose.png)
