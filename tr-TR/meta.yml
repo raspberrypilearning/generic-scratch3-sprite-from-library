@@ -1,7 +1,7 @@
 ---
-title: Dodanie duszka z biblioteki Scratch
+title: Kütüphaneden bir Scratch kuklası ekleme
 hero_image: images/banner.png
-description: Dodanie duszka z biblioteki Scratch
+description: Kütüphaneden bir Scratch kuklası ekleme
 original url:
 theme:
 duration: 1
@@ -12,4 +12,4 @@ ingredient: true
 interests:
 technologies: "scratch"
 steps:
-  - title: Dodaj duszka
+  - title: Bir kukla ekle
