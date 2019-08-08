@@ -1,4 +1,4 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Scratch sprite පුස්තකාලය බැලීමට **Choose a Sprite** මත ක්ලික් කරන්න.
     
     ![screenshot](images/sprite-library.png)
 
