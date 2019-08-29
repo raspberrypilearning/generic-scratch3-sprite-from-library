@@ -1,4 +1,4 @@
-+ Klikni na **Odaberi lik** da bi otvoriš knjižnicu u kojoj se nalaze svi Scratch likovi.
++ Klikni na **Odaberi lik** da otvoriš knjižnicu u kojoj se nalaze svi Scratch likovi.
     
     ![snimka zaslona](images/sprite-library.png)
 
