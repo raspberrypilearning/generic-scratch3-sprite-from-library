@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Clica em **Escolher um Actor** para ver a biblioteca de todos os actores do Scratch.
     
     ![captura de ecrã](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Podes procurar ou escolher actores por tema. Clica num actor para o adicionar ao teu projeto.
     
     ![screenshot](images/sprite-choose.png)
