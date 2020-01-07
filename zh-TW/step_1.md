@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ 點擊**選個角色**就可以檢視 Scratch 的角色範例庫。
     
-    ![screenshot](images/sprite-library.png)
+    ![截圖](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ 你可以依主題搜尋或直接瀏覽所有角色。 在角色上點一下就會添加到舞台裡。
     
-    ![screenshot](images/sprite-choose.png)
+    ![畫面截圖](images/sprite-choose.png)
