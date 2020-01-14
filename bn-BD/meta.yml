@@ -1,16 +1,16 @@
 ---
-title: Adding a Scratch sprite from the Library
+title: লাইব্রেরী থেকে একটি স্ক্র্যাচ স্প্রাইট যোগ করা
 hero_image: images/banner.png
-description: Adding a Scratch sprite from the Library
+description: লাইব্রেরী থেকে একটি স্ক্র্যাচ স্প্রাইট যোগ করা
 original url:
 theme:
-duration: 1
+duration: 0
 curriculum:
 listed: false
 copyedit: false
 ingredient: true
 interests:
-technologies: "scratch"
+technologies: "স্ক্র্যাচ"
 steps:
   - 
-    title: Add a sprite
+    title: একটি স্প্রাইট যোগ করুন
