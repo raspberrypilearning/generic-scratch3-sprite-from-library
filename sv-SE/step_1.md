@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Klicka på **Välj en sprajt** för att se biblioteket med alla Scratch sprajts.
     
-    ![screenshot](images/sprite-library.png)
+    ![skärmdump](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Du kan söka efter eller bläddra igenom sprajts efter tema. Klicka på en sprajt för att lägga till den i ditt projekt.
     
-    ![screenshot](images/sprite-choose.png)
+    ![skärmdump](images/sprite-choose.png)
