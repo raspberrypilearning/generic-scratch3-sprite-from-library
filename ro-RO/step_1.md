@@ -1,4 +1,4 @@
-+ Apasă pe **Alege un personaj** pentru a vedea biblioteca de personaje Scratch.
++ Dă click pe **Alege un personaj** pentru a vedea biblioteca de personaje Scratch.
     
     ![captură de ecran](images/sprite-library.png)
 
