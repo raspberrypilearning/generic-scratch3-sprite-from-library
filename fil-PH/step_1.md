@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ Mag-click sa **Pumili ng isang sprite** upang makita ang library ng lahat ng mga Scratch sprites.
     
-    ![screenshot](images/sprite-library.png)
+    ![I-screenshot](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ Maaari kang maghanap o mag-browse ng mga sprite ayon sa tema. Mag-click sa isang sprite upang idagdag ito sa iyong proyekto.
     
-    ![screenshot](images/sprite-choose.png)
+    ![I-screenshot](images/sprite-choose.png)
