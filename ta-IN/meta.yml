@@ -1,7 +1,7 @@
 ---
-title: Adding a Scratch sprite from the Library
-hero_image: images/banner.png
-description: Adding a Scratch sprite from the Library
+title: நூலகத்திலிருந்து ஒரு ஸ்க்ராட்ச் ஸ்ப்ரைட்டை சேர்த்தல்
+hero_image: படங்கள்/banner.png
+description: நூலகத்திலிருந்து ஒரு ஸ்க்ராட்ச் ஸ்ப்ரைட்டை சேர்த்தல்
 original url:
 theme:
 duration: 1
@@ -10,7 +10,7 @@ listed: false
 copyedit: false
 ingredient: true
 interests:
-technologies: "scratch"
+technologies: "ஸ்க்ராட்ச்"
 steps:
   - 
-    title: Add a sprite
+    title: ஒரு ஸ்ப்ரைட்டை சேர்த்தல்
