@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ ஸ்க்ராட்ச் ஸ்ப்ரைட் நூலகத்தை பார்க்க **Choose a sprite** மீது கிளிக் செய்யவும்.
     
-    ![screenshot](images/sprite-library.png)
+    ![திரைப்படிவம்](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ தீம் அடிப்படையில் ஸ்ப்ரைட்களை பார்க்கலாம் அல்லது தேடலாம். உங்கள் ப்ராஜெக்ட்டில் சேர்க்க உருவங்கள் மீது கிளிக் செய்யவும்.
     
-    ![screenshot](images/sprite-choose.png)
+    ![திரைப்படிவம்](images/sprite-choose.png)
