@@ -1,7 +1,7 @@
-+ Click **Choose a sprite** to see the library of all Scratch sprites.
++ सर्व स्क्रॅच स्प्राइट्सची लायब्ररी पहाण्यासाठी **Choose a sprite** वर क्लिक करा</0>.
     
     ![screenshot](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
++ आपण विषयनुसार स्प्राइट शोधू किंवा वाचु शकता. आपल्या प्रकल्पात जोडण्यासाठी एका स्प्राइटवर क्लिक करा.
     
     ![screenshot](images/sprite-choose.png)
