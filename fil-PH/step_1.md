@@ -1,4 +1,4 @@
-+ Mag-click sa **Pumili ng isang sprite** upang makita ang library ng lahat ng mga Scratch sprites.
++ Mag-click sa **Pumili ng isang sprite (Choose a sprite)** upang makita ang library ng lahat ng mga Scratch sprites.
     
     ![I-screenshot](images/sprite-library.png)
 
