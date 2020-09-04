@@ -1,7 +1,7 @@
 ---
-title: நூலகத்திலிருந்து ஒரு ஸ்க்ராட்ச் ஸ்ப்ரைட்டை சேர்த்தல்
+title: நூலகத்திலிருந்து ஒரு Scratch sprite-ஐச் சேர்த்தல்
 hero_image: படங்கள்/banner.png
-description: நூலகத்திலிருந்து ஒரு ஸ்க்ராட்ச் ஸ்ப்ரைட்டை சேர்த்தல்
+description: நூலகத்திலிருந்து ஒரு Scratch sprite-ஐச் சேர்க்கவும்
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "ஸ்க்ராட்ச்"
 steps:
   - 
-    title: ஒரு ஸ்ப்ரைட்டை சேர்த்தல்
+    title: ஒரு sprite-ஐச் சேர்த்தல்
