@@ -1,4 +1,4 @@
-+ Click __Choose a sprite__ to see the library of all Scratch sprites.
++ Click __Choose a Sprite__ to see the library of all Scratch sprites.
 
 	![screenshot](images/sprite-library.png)
 
