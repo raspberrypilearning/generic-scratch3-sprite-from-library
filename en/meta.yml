@@ -1,6 +1,6 @@
-title: Add a Scratch sprite from the Library
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Add a Scratch sprite from the Library
+description: Add a sprite from the Sprite Library
 original url:
 theme: 
 duration: 1
@@ -11,4 +11,4 @@ ingredient: true
 interests:
 technologies: "scratch"
 steps:
-  - title: Add a sprite
+  - title: Add a sprite from the Sprite Library
