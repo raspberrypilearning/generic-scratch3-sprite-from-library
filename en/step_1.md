@@ -1,7 +1,7 @@
-+ Click __Choose a sprite__ to see the library of all Scratch sprites.
+Click on __Choose a Sprite__ to open the Sprite Library:
 
-	![screenshot](images/sprite-library.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
 
-	![screenshot](images/sprite-choose.png)
+![The Sprite Library.](images/sprite-choose.png)
