@@ -1,7 +1,7 @@
-+ Kattints a **Válassz szereplőt** ikonra, hogy megnyisd az összes Scratch szereplő könyvtárát.
-    
-    ![képernyőkép](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Rákereshetsz egy szereplőre, vagy böngészheted őket téma alapján. Kattints egy szereplőre, hogy hozzáadd a projektedhez.
-    
-    ![képernyőkép](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
