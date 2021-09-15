@@ -1,7 +1,7 @@
 ---
-title: Kütüphaneden bir Scratch kuklası ekleme
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Kütüphaneden bir Scratch kuklası ekleme
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Bir kukla ekle
+    title: Add a sprite from the Sprite Library
