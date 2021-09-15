@@ -1,7 +1,7 @@
-+ Scratch sprite පුස්තකාලය බැලීමට **Choose a Sprite** මත ක්ලික් කරන්න.
-    
-    ![screenshot](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ You can search or browse sprites by theme. Click on a sprite to add it to your project.
-    
-    ![screenshot](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
