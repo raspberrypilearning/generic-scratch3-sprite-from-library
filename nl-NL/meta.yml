@@ -1,7 +1,7 @@
 ---
-title: Een Scratch-sprite toevoegen vanuit de bibliotheek
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Een Scratch-sprite toevoegen vanuit de bibliotheek
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Voeg een sprite toe
+    title: Add a sprite from the Sprite Library
