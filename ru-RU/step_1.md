@@ -1,7 +1,7 @@
-+ Нажми **Выбрать спрайт**, чтобы открыть библиотеку спрайтов Scratch.
-    
-    ![снимок экрана](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Ты можешь искать или просматривать спрайты по теме. Нажми на спрайт, чтобы добавить его в твой проект.
-    
-    ![снимок экрана](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
