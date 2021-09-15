@@ -1,7 +1,7 @@
-+ Klikni na **Odaberi lik** da otvoriš knjižnicu u kojoj se nalaze svi Scratch likovi.
-    
-    ![snimka zaslona](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Možeš pretraživati likove prema temi. Klikni na lika da ga dodaš u svoj projekt.
-    
-    ![snimka zaslona](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
