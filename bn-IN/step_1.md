@@ -1,7 +1,7 @@
-+ ক্লিক করুন **Choose a sprite ** সমস্ত scratch sprite লাইব্রেরি দেখতে।.
-    
-    ![screenshot](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ আপনি থিম অনুসারে sprites অনুসন্ধান বা ব্রাউজ করতে পারেন. আপনার প্রকল্পে এটি যুক্ত করতে কোনও sprite ক্লিক করুন।.
-    
-    ![screenshot](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
