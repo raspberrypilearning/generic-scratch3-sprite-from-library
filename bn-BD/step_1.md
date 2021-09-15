@@ -1,7 +1,7 @@
-+ ** ক্লিক করুন একটি স্প্রাইট চয়ন করুন ** সমস্ত স্ক্র্যাচ স্প্রাইটের লাইব্রেরি দেখতে।
-    
-    ![স্ক্রিনশট](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ আপনি থিম অনুসারে স্প্রিট অনুসন্ধান বা ব্রাউজ করতে পারেন. আপনার প্রকল্পে কোন স্প্রাইট যুক্ত করতে স্প্রাইট এ ক্লিক করুন.
-    
-    ![স্ক্রিনশট](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
