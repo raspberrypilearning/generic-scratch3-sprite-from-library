@@ -1,7 +1,7 @@
-+ Klikk på **Velg en figur** for å se biblioteket med alle Scratch-figurene.
-    
-    ![skjermbilde](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Du kan søke eller bla gjennom figurer etter tema. Klikk på en figur for å legge den til prosjektet ditt.
-    
-    ![skjermbilde](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
