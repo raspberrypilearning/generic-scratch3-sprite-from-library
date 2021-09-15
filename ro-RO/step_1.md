@@ -1,7 +1,7 @@
-+ Dă click pe **Alege un costum** pentru a vedea biblioteca de personaje Scratch.
-    
-    ![captură de ecran](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Poți căuta sau afișa personaje după subiect. Apasă pe un personaj pentru a-l adăuga la proiectul tău.
-    
-    ![captură de ecran](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
