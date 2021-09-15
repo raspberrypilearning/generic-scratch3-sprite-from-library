@@ -1,7 +1,7 @@
-+ انقر فوق **اختيار كائن** لترى المكتبة التي تحتوي على جميع كائنات Scratch.
-    
-    ![لقطة الشاشة](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ يمكنك البحث أو عرض الكائنات على حسب الموضوعات. انقر فوق الكائن لإضافته لمشروعك.
-    
-    ![لقطة الشاشة](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
