@@ -1,7 +1,7 @@
 ---
-title: Προσθέτοντας ένα αντικείμενο Scratch από τη Βιβλιοθήκη
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Προσθέτοντας ένα αντικείμενο (sprite) από τη Βιβλιοθήκη του Scratch
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Πρόσθεσε ένα αντικείμενο (sprite)
+    title: Add a sprite from the Sprite Library
