@@ -1,7 +1,7 @@
-+ Кликнете **Изберете спрайт**, за да видите библиотеката на всички Scratch sprites.
-    
-    ![скрийншот](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Можете да търсите или разглеждате спрайтове по тема. Кликнете върху спрайт, за да го добавите към вашия проект.
-    
-    ![скрийншот](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
