@@ -1,7 +1,7 @@
 ---
-title: Eine Scratch-Figur aus der Bibliothek hinzufügen
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Eine Scratch-Figur aus der Bibliothek hinzufügen
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Eine Figur hinzufügen
+    title: Add a sprite from the Sprite Library
