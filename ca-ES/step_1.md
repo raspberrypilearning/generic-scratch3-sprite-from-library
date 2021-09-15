@@ -1,7 +1,7 @@
-+ Fes clic a **Tria un personatge** per veure la biblioteca de tots els personatges de Scratch.
-    
-    ![captura de pantalla](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Pots cercar o explorar personatges per tema. Fes clic a un personatge per afegir-lo al teu projecte.
-    
-    ![captura de pantalla](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
