@@ -1,7 +1,7 @@
-+ Klik **Pilih Sprite** untuk melihat perpustakaan semua sprite Scratch.
-    
-    ![screenshot](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Kamu bisa mencari atau menelusuri sprite berdasarkan tema. Klik sprite untuk menambahkannya ke proyek mu.
-    
-    ![screenshot](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
