@@ -1,7 +1,7 @@
 ---
-title: Scratch szereplő hozzáadása a könyvtárból
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Scratch szereplő hozzáadása a könyvtárból
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adj hozzá egy szereplőt
+    title: Add a sprite from the Sprite Library
