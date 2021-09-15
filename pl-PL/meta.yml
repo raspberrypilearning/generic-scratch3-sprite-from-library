@@ -1,7 +1,7 @@
 ---
-title: Dodanie duszka z biblioteki Scratch
+title: Add a sprite from the Sprite Library
 hero_image: images / banner.png
-description: Dodanie duszka z biblioteki Scratch
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Dodaj duszka
+    title: Add a sprite from the Sprite Library
