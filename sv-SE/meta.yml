@@ -1,7 +1,7 @@
 ---
-title: Att lägga till en Scratch sprajt från biblioteket
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Att lägga till en Scratch sprajt från biblioteket
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Lägga till en sprajt
+    title: Add a sprite from the Sprite Library
