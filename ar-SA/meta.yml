@@ -1,7 +1,7 @@
 ---
-title: إضافة كائن Scratch من المكتبة
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: إضافة كائن Scratch من المكتبة
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: إضافة كائن
+    title: Add a sprite from the Sprite Library
