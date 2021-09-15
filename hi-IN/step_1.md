@@ -1,7 +1,7 @@
-+ सभी स्क्रैच स्प्राइट्स की लाइब्रेरी देखने के लिए **स्प्राइट चुनें(Choose a sprite)** पर क्लिक करें।
-    
-    ![screenshot](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ आप थीम(Theme) द्वारा स्प्राइट को खोज या ब्राउज़ कर सकते हैं। अपने परियोजना में स्प्राइट को शामिल करने के लिए उस पर क्लिक करें।
-    
-    ![screenshot](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
