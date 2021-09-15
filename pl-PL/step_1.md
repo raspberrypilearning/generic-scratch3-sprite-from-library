@@ -1,7 +1,7 @@
-+ Kliknij **Wybierz duszka**, aby wyświetlić bibliotekę wszystkich duszków Scratcha.
-    
-    ![zrzut ekranu](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Możesz wyszukiwać lub przeglądać duszki według tematu. Kliknij duszka, aby dodać go do swojego projektu.
-    
-    ![zrzut ekranu](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
