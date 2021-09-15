@@ -1,7 +1,7 @@
-+ روی **Choose a sprite** کلیک کنید تا کتابخانه‌ی تمام شبح های اسکرچ را ببینید.
-    
-    ![عکس از صفحه نمایش](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ شما می‌توانید شبح‌ها را جستجو یا بر اساس موضوع مرور کنید. برای این‌که یک شبح را به پروژه‌ی خود اضافه کنید، روی آن کلیک کنید.
-    
-    ![عکس از صفحه نمایش](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
