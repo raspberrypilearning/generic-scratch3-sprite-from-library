@@ -1,7 +1,7 @@
-+ 点击**选择一个角色**来查看包含所有Scratch角色的角色库。
-    
-    ![截屏](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ 您可以按主题搜索或浏览角色。 单击一个角色将其添加到您的项目中。
-    
-    ![截图](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
