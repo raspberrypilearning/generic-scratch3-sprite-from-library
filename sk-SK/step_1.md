@@ -1,7 +1,7 @@
-+ Klikni na tlačidlo **Vyber si postavu**, aby sa zobrazila knižnica všetkých Scratch postáv.
-    
-    ![snímka obrazovky](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Môžeš vyhľadávať alebo prezerať postavy podľa témy. Klikni na postavu, aby si ju pridal/-a do projektu.
-    
-    ![snímka obrazovky](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
