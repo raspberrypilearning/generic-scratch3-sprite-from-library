@@ -1,7 +1,7 @@
 ---
-title: Adăugarea unui personaj Scratch din Bibliotecă
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Adaugă un personaj Scratch din Bibliotecă
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Adaugă un personaj
+    title: Add a sprite from the Sprite Library
