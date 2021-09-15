@@ -1,7 +1,7 @@
 ---
-title: Dodajanje Scratch figure iz knjižnice
+title: Add a sprite from the Sprite Library
 hero_image: images / banner.png
-description: Dodajanje Scratch figure iz knjižnice
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Dodaj figuro
+    title: Add a sprite from the Sprite Library
