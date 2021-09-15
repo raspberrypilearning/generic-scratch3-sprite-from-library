@@ -1,7 +1,7 @@
-+ Za ogled knjižnice vseh Sprite figur klikni na **Izberi figuro**.
-    
-    ![posnetek zaslona](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ Figure lahko iščeš ali prebrskaš glede na temo. Klikni na figuro, da jo dodaš v svoj projekt.
-    
-    ![posnetek zaslona](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
