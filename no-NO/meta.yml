@@ -1,7 +1,7 @@
 ---
-title: Legge til en Scratch-figur fra biblioteket
+title: Add a sprite from the Sprite Library
 hero_image: images/banner.png
-description: Legge til en Scratch-figur fra biblioteket
+description: Add a sprite from the Sprite Library
 original url:
 theme:
 duration: 1
@@ -13,4 +13,4 @@ interests:
 technologies: "scratch"
 steps:
   - 
-    title: Legg til en figur
+    title: Add a sprite from the Sprite Library
