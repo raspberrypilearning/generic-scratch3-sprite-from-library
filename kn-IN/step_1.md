@@ -1,7 +1,7 @@
-+ ಎಲ್ಲಾ ಸ್ಕ್ರ್ಯಾಚ್ ಸ್ಪ್ರೈಟ್‌ಗಳ ಲೈಬ್ರರಿಯನ್ನು ನೋಡಲು **ಕ್ಲಿಕ್ ಮಾಡಿ ಸ್ಪ್ರೈಟ್ ಆಯ್ಕೆಮಾಡಿ**.
-    
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/sprite-library.png)
+Click on **Choose a Sprite** to open the Sprite Library:
 
-+ ನೀವು ವಿಷಯದ ಮೂಲಕ ಸ್ಪ್ರೈಟ್‌ಗಳನ್ನು ಹುಡುಕಬಹುದು ಅಥವಾ ಬ್ರೌಸ್ ಮಾಡಬಹುದು. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
-    
-    ![ಸ್ಕ್ರೀನ್‍ಶಾಟ್](images/sprite-choose.png)
+![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+
+You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+
+![The Sprite Library.](images/sprite-choose.png)
