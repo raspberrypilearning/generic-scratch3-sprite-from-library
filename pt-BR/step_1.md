@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Clique em **Selecione um Ator** para ver a Biblioteca de Atores:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![O ícone 'Selecione um Ator' destacado.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Você pode procurar ou escolher atores por tema. Clique em um ator para adicioná-lo ao seu projeto.
 
-![The Sprite Library.](images/sprite-choose.png)
+![A Biblioteca de Atores.](images/sprite-choose.png)
