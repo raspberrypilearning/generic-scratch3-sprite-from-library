@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+انقر فوق **اختيار كائن** لفتح مكتبة الكائنات:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![تم تحديد زر "اختيار الكائن".](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+يمكنك البحث أو عرض الكائنات على حسب التصنيف. انقر فوق الكائن لإضافته لمشروعك.
 
-![The Sprite Library.](images/sprite-choose.png)
+![مكتبة الكائنات](images/sprite-choose.png)
