@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Haz clic en **Elegir un objeto** para ver la biblioteca de todos los objetos de Scratch:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![El ícono 'Elegir un objeto' resaltado.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Puedes buscar o navegar entre los objetos por tema. Haz clic en un objeto para agregarlo a tu proyecto.
 
-![The Sprite Library.](images/sprite-choose.png)
+![La biblioteca de objetos.](images/sprite-choose.png)
