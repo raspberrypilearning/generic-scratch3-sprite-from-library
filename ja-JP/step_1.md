@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+**スプライトを選ぶ**をクリックしてスプライトライブラリを開きます。
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![強調表示された「スプライトを選ぶ」アイコン。](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+スプライトを検索したり、カテゴリ別に閲覧したりできます。 スプライトをクリックしてプロジェクトに追加します。
 
-![The Sprite Library.](images/sprite-choose.png)
+![スプライトライブラリ。](images/sprite-choose.png)
