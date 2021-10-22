@@ -1,4 +1,4 @@
-Clique sur **Choisir un sprite** pour voir la librairie de tout les sprites :
+Clique sur **Choisir un sprite** pour ouvrir la bibliothèque de sprites :
 
 ![L'icône « Choisir un sprite » en surbrillance.](images/sprite-library.png)
 
