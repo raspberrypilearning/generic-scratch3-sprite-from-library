@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Clique sur **Choisir un sprite** pour voir la librairie de tout les sprites :
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![L'icône « Choisir un sprite » en surbrillance.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Tu peux chercher ou consulter les sprites par catégorie. Clique sur un sprite pour l'ajouter à ton projet.
 
-![The Sprite Library.](images/sprite-choose.png)
+![La bibliothèque de Sprite.](images/sprite-choose.png)
