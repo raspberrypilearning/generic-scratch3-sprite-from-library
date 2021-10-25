@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Κάνε κλικ στο **Επιλέξτε ένα Αντικείμενο ** για να ανοίξεις τη Βιβλιοθήκη Αντικειμένων:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Το εικονίδιο "Επιλέξτε ένα Αντικείμενο" έχει επιλεγεί.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Μπορείς να ψάξεις για ένα αντικείμενο ή να αναζητήσεις ένα ανά κατηγορία. Κάνε κλικ σε ένα αντικείμενο για να το προσθέσεις στο έργο σου.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Η Βιβλιοθήκη Αντικειμένων.](images/sprite-choose.png)
