@@ -1,7 +1,7 @@
-+ Klik op **Kies een sprite** om de bibliotheek met alle Scratch-sprites te openen.
-    
-    ![screenshot](images/sprite-library.png)
+Klik op **Kies een sprite** om de bibliotheek met alle Scratch-sprites te openen:
 
-+ Je kunt sprites zoeken of per thema door bladeren. Klik op een sprite om deze toe te voegen aan jouw project.
-    
-    ![screenshot](images/sprite-choose.png)
+![Het pictogram 'Kies een Sprite' gemarkeerd.](images/sprite-library.png)
+
+Je kunt sprites zoeken of er per thema door bladeren. Klik op een sprite om deze toe te voegen aan jouw project.
+
+![De Sprite-bibliotheek.](images/sprite-choose.png)
