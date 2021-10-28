@@ -1,7 +1,7 @@
 ಸ್ಪ್ರೈಟ್ ಲೈಬ್ರರಿಯನ್ನು ತೆರೆಯಲು **Choose a Sprite** ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![ಹೈಲೈಟ್ ಮಾಡಿದ Choose a sprite' ಐಕಾನ್.](images/sprite-library.png)
 
 ನೀವು ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಹುಡುಕಬಹುದು, ಅಥವಾ ವರ್ಗದಿಂದ ಒಂದನ್ನು ಬ್ರೌಸ್ ಮಾಡಬಹುದು. ನಿಮ್ಮ ಪ್ರಾಜೆಕ್ಟ್‌ಗೆ ಸೇರಿಸಲು ಸ್ಪ್ರೈಟ್ ಅನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Sprite Library.](images/sprite-choose.png)
