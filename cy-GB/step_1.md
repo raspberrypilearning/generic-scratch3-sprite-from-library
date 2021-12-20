@@ -1,7 +1,7 @@
-+ Clicia **Dewis corlun** i weld llyfrgell o gorluniau Scratch.
-    
-    ![sgrinlun](images/sprite-library.png)
+Clicia ar **Dewiswch Gorlun** i agor Llyfrgell y Corluniau:
 
-+ Mae modd chwilio neu borri am gorlun fesul thema. Clicia ar gorlun i'w ychwanegu i dy brosiect.
-    
-    ![sgrinlun](images/sprite-choose.png)
+![Yr eicon 'Dewiswch Gorlun' wedi'i hamlygu.](images/sprite-library.png)
+
+Mae modd chwilio am gorlun, neu bori am un yn ôl categori. Clicia ar gorlun i'w ychwanegu i dy brosiect.
+
+![Llyfrgell y Corluniau.](images/sprite-choose.png)
