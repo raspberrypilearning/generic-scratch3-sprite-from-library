@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Clicia ar **Dewiswch Gorlun** i agor Llyfrgell y Corluniau:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Yr eicon 'Dewiswch Gorlun' wedi'i hamlygu.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Mae modd chwilio am gorlun, neu bori am un yn ôl categori. Clicia ar gorlun i'w ychwanegu i dy brosiect.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Llyfrgell y Corluniau.](images/sprite-choose.png)
