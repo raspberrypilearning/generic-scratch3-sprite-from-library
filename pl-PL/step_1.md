@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Kliknij **Wybierz duszka** aby otworzyć bibliotekę duszków:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Podświetlona ikona „Wybierz duszka”.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Możesz wyszukiwać lub przeglądać duszki według tematu. Kliknij duszka, aby dodać go do swojego projektu.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Biblioteka duszków.](images/sprite-choose.png)
