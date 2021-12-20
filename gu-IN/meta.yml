@@ -1,6 +1,6 @@
 ---
 title: Add a sprite from the Sprite Library
-hero_image: images/banner.png
+hero_image: છબીઓ / banner.png
 description: Add a sprite from the Sprite Library
 original url:
 theme:
@@ -10,7 +10,7 @@ listed: false
 copyedit: false
 ingredient: true
 interests:
-technologies: "scratch"
+technologies: "શરૂઆતથી"
 steps:
   - 
     title: Add a sprite from the Sprite Library
