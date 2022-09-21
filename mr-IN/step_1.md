@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+स्प्राइट लीस्टमधील **स्प्राइट निवडा** वर क्लिक करा:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+!['स्प्राइट निवडा' चिन्ह हायलाइट केले.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+तुम्ही स्प्राईट शोधू शकता किंवा श्रेणीनुसार ब्राउझ करू शकता. आपल्या प्रकल्पात जोडण्यासाठी एका स्प्राइटवर क्लिक करा.
 
-![The Sprite Library.](images/sprite-choose.png)
+![स्प्राइट लायब्ररी.](images/sprite-choose.png)
