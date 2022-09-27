@@ -1,7 +1,8 @@
-+ Kliknij **Wybierz duszka**, aby wyświetlić bibliotekę wszystkich duszków Scratcha.
-    
-    ![zrzut ekranu](images/sprite-library.png)
+Kliknij **Wybierz duszka** aby otworzyć bibliotekę duszków:
 
-+ Możesz wyszukiwać lub przeglądać duszki według tematu. Kliknij duszka, aby dodać go do swojego projektu.
-    
-    ![zrzut ekranu](images/sprite-choose.png)
+![Podświetlona ikona „Wybierz duszka”.](images/sprite-library.png)
+
+Możesz wyszukiwać lub przeglądać duszki według tematu. Kliknij duszka, aby dodać go do swojego projektu.
+
+![Biblioteka duszków.](images/sprite-choose.png)
+
