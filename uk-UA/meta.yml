@@ -1,7 +1,7 @@
 ---
-title: Додавання спрайта з бібліотеки Скретч
+title: Додавання спрайта з Бібліотеки Спрайтів
 hero_image: images/banner.png
-description: Додавання спрайта з бібліотеки Скретч
+description: Додавання спрайта з Бібліотеки Спрайтів
 original url:
 theme:
 duration: 1
@@ -12,4 +12,4 @@ ingredient: true
 interests:
 technologies: "scratch"
 steps:
-  - title: Додати спрайт
+  - title: Додавання спрайта з Бібліотеки Спрайтів
