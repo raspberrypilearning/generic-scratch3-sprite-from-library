@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Клацни на **Обрати спрайт**, щоб відкрити Бібліотеку Спрайтів:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Іконка 'Обрати спрайт' виділена.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Натисни на спрайт, щоб додати його до свого проєкту.
+Ти можеш здійснити пошук спрайта або переглянути його за категоріями. Натисни на спрайт, щоб додати його до свого проєкту.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Бібліотека Спрайтів.](images/sprite-choose.png)
