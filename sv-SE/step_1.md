@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Klicka på **Välj en Sprajt** för att öppna Sprajtbiblioteket:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Ikonen "Välj en Sprajt" är markerad.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Du kan söka efter en sprajt eller hitta en under en av kategorierna. Klicka på en sprajt för att lägga till den i ditt projekt.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Sprajtbiblioteket.](images/sprite-choose.png)
