@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Klikni na **Odaberi lik** da otvoriš knjižnicu likova:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Istaknuta ikona „Odaberi lik”.](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Klikni na lika da ga dodaš u svoj projekt.
+Možeš potražiti određenog lika ili pretraživati likove po kategorijama. Klikni na lika da ga dodaš u svoj projekt.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Knjižnica likova.](images/sprite-choose.png)
