@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Klikni na **Vyber si postavu** a otevře se výběr:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Zvýrazněná ikona "Vyber postavu".](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Můžeš vyhledat postavičku, nebo si jednu vybrat podle kategorie. Přidej postavu do projektu tím, že na ni klikneš.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Výběr postaviček.](images/sprite-choose.png)
