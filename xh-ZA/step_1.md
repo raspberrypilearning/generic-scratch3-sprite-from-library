@@ -1,7 +1,7 @@
-Click on **Choose a Sprite** to open the Sprite Library:
+Cofa ku **Khetha iSprite** kuze uvule iThala lweziSprite:
 
-![The 'Choose a Sprite' icon highlighted.](images/sprite-library.png)
+![Uphawu 'Khetha iSprite' luqaqanjisiwe](images/sprite-library.png)
 
-You can search for a sprite, or browse for one by category. Click on a sprite to add it to your project.
+Unokukhangela isprite, okanye usikhangele kuluhlu lodidi. Cofa kwisprite ofuna ukusifaka kwiprojekthi yakho.
 
-![The Sprite Library.](images/sprite-choose.png)
+![Ithala leziSprite.](images/sprite-choose.png)
